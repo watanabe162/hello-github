@@ -1,2 +1,2 @@
 # hello-github
-test repository
+this is test repository.
